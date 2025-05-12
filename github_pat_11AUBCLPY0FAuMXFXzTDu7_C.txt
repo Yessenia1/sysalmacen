@@ -1,0 +1,10 @@
+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
+
+Yessenia1
+Yessenia1
+
+githubtoken3
+
+
+ngrok http http://docker.jenkins:9080
+http://docker.jenkins:9080/
