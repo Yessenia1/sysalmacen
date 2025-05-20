@@ -10,7 +10,7 @@ pipeline {
         stage('Clone') {
             steps {
                 timeout(time: 2, unit: 'MINUTES'){
-                    git branch: 'main', credentialsId: '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', url: 'https://github.com/Yessenia1/sysalmacen.git'
+                    git branch: 'main', credentialsId: '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', url: 'https://github.com/Yessenia1/sysalmacen.git'
                 }
             }
         }
